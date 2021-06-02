@@ -1,1 +1,4 @@
-## Um simples projeto de estudo para parabenizar a um grande amigo!
+# Projeto em CSS para estudo de animações.
+
+Idealizado para parabenizar um grande amigo!
+
